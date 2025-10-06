@@ -507,3 +507,7 @@ benchmark_all "./models"
 > **インストール**：公式GitHubリポジトリからllama.cppをコンパイル
 
 ローカルAIエコシステムをマスターするために必要なすべてが揃いました！
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

@@ -507,3 +507,7 @@ benchmark_all "./models"
 > **安装**：从官方GitHub仓库编译llama.cpp
 
 掌握本地AI生态系统所需的一切都已具备！
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

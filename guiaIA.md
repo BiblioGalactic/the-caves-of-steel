@@ -504,3 +504,7 @@ benchmark_all "./modelos"
 > **Instalación**: Compilar llama.cpp desde el repositorio oficial de GitHub
 
 ¡Tienes todo lo necesario para dominar tu ecosistema de IA local!
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

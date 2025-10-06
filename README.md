@@ -25,6 +25,8 @@ Cada archivo y carpeta es un nodo de conocimiento, diseñado para que puedas **e
 the-caves-of-steel/
 ├── guiaIA.md             # Guía principal en español
 ├── guiaIA_EN.md          # Versión en inglés
+├── guiaIA_CAT.md          # Versión en catalán
+├── guiaIA_EUS.md          # Versión en euskera
 ├── guiaIA_JP.md          # Versión en japonés
 ├── guiaIA_ZH.md          # Versión en chino
 └── README.md             # Este archivo

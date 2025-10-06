@@ -498,3 +498,7 @@ benchmark_all "./models"
 **Installation**: Compile llama.cpp from the official GitHub repository
 
 You have everything you need to master your local AI ecosystem\!
+
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic
