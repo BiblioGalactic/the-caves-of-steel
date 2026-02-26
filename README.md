@@ -124,6 +124,23 @@ Progressive exercises in `exercises/EXERCISES.md` covering 4 levels:
 
 ---
 
+
+## Companion Guides
+
+Additional operational guides for the WhatsApp + llama.cpp bridge workflow (all repository languages):
+
+| Language | Extended Guide | Operations Playbook |
+|---|---|---|
+| Castellano | `WA_LLAMA_BRIDGE_GUIA.md` | `WA_LLAMA_BRIDGE_OPERACION.md` |
+| English | `WA_LLAMA_BRIDGE_GUIA_EN.md` | `WA_LLAMA_BRIDGE_OPERACION_EN.md` |
+| Catala | `WA_LLAMA_BRIDGE_GUIA_CAT.md` | `WA_LLAMA_BRIDGE_OPERACION_CAT.md` |
+| Euskara | `WA_LLAMA_BRIDGE_GUIA_EUS.md` | `WA_LLAMA_BRIDGE_OPERACION_EUS.md` |
+| Francais | `WA_LLAMA_BRIDGE_GUIA_FR.md` | `WA_LLAMA_BRIDGE_OPERACION_FR.md` |
+| Japanese | `WA_LLAMA_BRIDGE_GUIA_JP.md` | `WA_LLAMA_BRIDGE_OPERACION_JP.md` |
+| Chinese | `WA_LLAMA_BRIDGE_GUIA_ZH.md` | `WA_LLAMA_BRIDGE_OPERACION_ZH.md` |
+
+---
+
 ## Part of the BiblioGalactic Ecosystem
 
 The Caves of Steel works standalone, but it's also part of a larger AI toolkit:
